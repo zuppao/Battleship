@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\bin\Debug\BSClient.exe.config
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\bin\Debug\BSClient.exe
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\bin\Debug\BSClient.pdb
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\obj\Debug\BSClient.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\obj\Debug\BSClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\obj\Debug\BSClient.exe
+C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSClient\obj\Debug\BSClient.pdb
