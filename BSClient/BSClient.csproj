@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{55A00E7C-4FA8-488D-8B6F-2D13179BB44B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BSClient</RootNamespace>
+    <RootNamespace>cyberdyne.Battleship.BSClient</RootNamespace>
     <AssemblyName>BSClient</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

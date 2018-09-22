@@ -5,3 +5,13 @@ C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSServer\obj\Debug\BSS
 C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSServer\obj\Debug\BSServer.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSServer\obj\Debug\BSServer.exe
 C:\Users\Dell\Documents\My Documents\Dev\Games\Battleship\BSServer\obj\Debug\BSServer.pdb
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\bin\Debug\BSServer.exe.config
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\bin\Debug\BSServer.exe
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\bin\Debug\BSServer.pdb
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\bin\Debug\BattleshipCore.dll
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\bin\Debug\BattleshipCore.pdb
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\obj\Debug\BSServer.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\obj\Debug\BSServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\obj\Debug\BSServer.csproj.CopyComplete
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\obj\Debug\BSServer.exe
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\BSServer\obj\Debug\BSServer.pdb
