@@ -13,13 +13,13 @@ namespace cyberdyne.BattleshipCore
     //    Submarine,//3
     //    Destroyer//2
     //}
-    internal enum Orientation
+    public enum Orientation
     {
         Horizontal,
         Vertical
     }
 
-    internal enum Commands
+    public enum Commands
     {
         name,
         deploy,

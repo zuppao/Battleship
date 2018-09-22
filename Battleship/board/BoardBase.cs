@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace cyberdyne.BattleshipCore.board
 {
-    internal class BoardBase
+    public class BoardBase
     {
         bool[,] board;
 
-        internal BoardBase()
+        public BoardBase()
         {
             this.board = new bool[10, 10];//all false by default
 
         }
 
-        internal void DeployShip(Point _startPosition, short _size, Orientation _orientation)
+        public void DeployShip(Point _startPosition, short _size, Orientation _orientation)
         {
             if(_orientation == Orientation.Horizontal)
             {

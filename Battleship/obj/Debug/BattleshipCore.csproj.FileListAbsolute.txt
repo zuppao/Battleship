@@ -1,6 +1,6 @@
 C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\bin\Debug\BattleshipCore.dll
 C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\bin\Debug\BattleshipCore.pdb
-C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\obj\Debug\BattleshipCore.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\obj\Debug\BattleshipCore.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\obj\Debug\BattleshipCore.dll
 C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\obj\Debug\BattleshipCore.pdb
+C:\Users\Dell\Documents\My Documents\Dev\repositories\Battleship\Battleship\obj\Debug\BattleshipCore.csprojAssemblyReference.cache
